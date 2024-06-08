@@ -2,7 +2,7 @@
 
 Hi, my name is Sven and im 52 years old. I am living in Germany and my daily job is QA Automation Engineer at ATLAS Dienstleistungen für Vermögensberatung GmbH (@dvag).
 
-[IMG](https://github.com/SvenSchneiderDVAG/SvenSchneiderDVAG/blob/main/coding_at_night-700x700.png)
+![Image](https://github.com/SvenSchneiderDVAG/SvenSchneiderDVAG/blob/main/coding_at_night-700x700.png)
 
 ### Favourite Tools:
 ![Static Badge](https://img.shields.io/badge/VS%20Code-blue?style=flat&label=Editor)
