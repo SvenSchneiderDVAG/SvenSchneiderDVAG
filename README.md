@@ -17,7 +17,7 @@ Hi, my name is Sven. I am living in Germany and I'm working as an QA Automation 
 ![Static Badge](https://img.shields.io/badge/Golang-blue?style=flat&label=Code)
 ![Static Badge](https://img.shields.io/badge/YAML-8A2BE2?style=flat&label=Code)
 ![Static Badge](https://img.shields.io/badge/C++-blue?style=flat&label=Code)
-![Static Badge](https://img.shields.io/badge/C%20#-8A2BE2?style=flat&label=Code)
+![Static Badge](https://img.shields.io/badge/C%20Sharp-8A2BE2?style=flat&label=Code)
 ![Static Badge](https://img.shields.io/badge/Rust-blue?style=flat&label=Code)
 ![Static Badge](https://img.shields.io/badge/Python-8A2BE2?style=flat&label=Code)
 ![Static Badge](https://img.shields.io/badge/Lua-blue?style=flat&label=Code)
