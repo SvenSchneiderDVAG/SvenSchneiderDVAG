@@ -22,7 +22,7 @@ Hi, my name is Sven. I am living in Germany and I'm working as an QA Automation 
 ![Static Badge](https://img.shields.io/badge/Python-8A2BE2?style=flat&label=Code)
 ![Static Badge](https://img.shields.io/badge/Lua-blue?style=flat&label=Code)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=SvenSchneiderDVAG&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SvenSchneiderDVAG&left_color=green&right_color=red)
 
 
 
