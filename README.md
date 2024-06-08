@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, my name is Sven. I am living in Germany and I'm working as an QA Automation Engineer at ATLAS Dienstleistungen für Vermögensberatung AG (@dvag)
+Hi, my name is Sven. I am living in Germany and I'm working as an QA Automation Engineer at ATLAS Dienstleistungen für Vermögensberatung GmbH (@dvag)
 
 ### Testing frameworks I'm using:
 
