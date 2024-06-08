@@ -7,7 +7,7 @@ Hi, my name is Sven and I'm an QA Automation Engineer @dvag
 ![Static Badge](https://img.shields.io/badge/Typescript-blue?style=flat&label=Code)
 ![Static Badge](https://img.shields.io/badge/Golang-blue?style=flat&label=Code)
 ![Static Badge](https://img.shields.io/badge/YAML-blue?style=flat&label=Code)
-![Static Badge](https://img.shields.io/badge/C++-blue?style=flat&label=Code)
+![Static Badge](https://img.shields.io/badge/CPP-blue?style=flat&label=Code)
 ![Static Badge](https://img.shields.io/badge/C%20Sharp-blue?style=flat&label=Code)
 ![Static Badge](https://img.shields.io/badge/Rust-blue?style=flat&label=Code)
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat&label=Code)
