@@ -22,7 +22,6 @@ Hi, my name is Sven. I am living in Germany and I'm working as an QA Automation 
 ![Static Badge](https://img.shields.io/badge/Python-8A2BE2?style=flat&label=Code)
 ![Static Badge](https://img.shields.io/badge/Lua-blue?style=flat&label=Code)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SvenSchneiderDVAG)](https://github.com/SvenSchneiderDVAG/github-readme-stats)
 
 
 
