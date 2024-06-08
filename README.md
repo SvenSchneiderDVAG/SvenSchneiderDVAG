@@ -2,7 +2,16 @@
 
 Hi, my name is Sven and I'm an QA Automation Engineer @dvag
 
-### Coding languages I'm used to and still learning:
+### Testing frameworks I'm using:
+
+![Static Badge](https://img.shields.io/badge/Tosca-blue?style=flat&label=Test)
+![Static Badge](https://img.shields.io/badge/Ranorex-8A2BE2?style=flat&label=Test)
+![Static Badge](https://img.shields.io/badge/Selendide-blue?style=flat&label=Test)
+![Static Badge](https://img.shields.io/badge/Selenium-8A2BE2?style=flat&label=Test)
+![Static Badge](https://img.shields.io/badge/Playwright-blue?style=flat&label=Test)
+![Static Badge](https://img.shields.io/badge/Jest-8A2BE2?style=flat&label=Test)
+
+### Coding languages I'm coding in and which I still keep learning:
 
 ![Static Badge](https://img.shields.io/badge/Typescript-8A2BE2?style=flat&label=Code)
 ![Static Badge](https://img.shields.io/badge/Golang-blue?style=flat&label=Code)
