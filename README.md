@@ -14,7 +14,7 @@ Hi, my name is Sven and im 52 years old. I am living in Germany and my daily job
 
 ![Static Badge](https://img.shields.io/badge/Tosca-blue?style=flat&label=Test)
 ![Static Badge](https://img.shields.io/badge/Ranorex-8A2BE2?style=flat&label=Test)
-![Static Badge](https://img.shields.io/badge/Selendide-blue?style=flat&label=Test)
+![Static Badge](https://img.shields.io/badge/Selenide-blue?style=flat&label=Test)
 ![Static Badge](https://img.shields.io/badge/Selenium-8A2BE2?style=flat&label=Test)
 ![Static Badge](https://img.shields.io/badge/Playwright-blue?style=flat&label=Test)
 ![Static Badge](https://img.shields.io/badge/Jest-8A2BE2?style=flat&label=Test)
@@ -30,5 +30,8 @@ Hi, my name is Sven and im 52 years old. I am living in Germany and my daily job
 ![Static Badge](https://img.shields.io/badge/Python-8A2BE2?style=flat&label=Code)
 ![Static Badge](https://img.shields.io/badge/Lua-blue?style=flat&label=Code)
 ![Static Badge](https://img.shields.io/badge/YAML-8A2BE2?style=flat&label=Code)
-
+![Static Badge](https://img.shields.io/badge/HTML-blue?style=flat&label=Code)
+![Static Badge](https://img.shields.io/badge/CSS-8A2BE2?style=flat&label=Code)
+![Static Badge](https://img.shields.io/badge/PHP-blue?style=flat&label=Code)
+![Static Badge](https://img.shields.io/badge/Java-8A2BE2?style=flat&label=Code)
 
